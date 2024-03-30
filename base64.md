@@ -6,7 +6,7 @@ base64 --help
 
 ## base64 Encoding. watch out for EOL (End Of Line) Char
 
- -n will not append a EOL
+> -n will not append a EOL
 echo -n "This is a line" | base64
 
 ## base64 Decoding
