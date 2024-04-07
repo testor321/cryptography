@@ -1,14 +1,14 @@
-# Url Encoding
+# URL Encoding
 
 ## Help
 
 urlencode
 
-## Url Encode  
+## URL Encode  
 
 urlencode -m "<http://mudra?user=test> name"
 
-## Url Decode
+## URL Decode
 
 urlencode -d http%3A//mudra%3Fuser=test+name
 

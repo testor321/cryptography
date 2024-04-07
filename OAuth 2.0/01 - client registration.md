@@ -18,7 +18,7 @@ Create and select
 
 ---
 
-Search - google photos library api - Photos Library API - ENABLE
+Search - google photos library API - Photos Library API - ENABLE
 
 API and Services - Credentials
 Create credentials - OAuth CLient ID - Configure concent screen
