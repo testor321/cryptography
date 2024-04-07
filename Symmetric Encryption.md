@@ -39,7 +39,9 @@ ECB (Electronic Codebook) is essentially the first generation of the AES. It is 
 
 CBC (Cipher Blocker Chaining) is an advanced form of block cipher encryption. With CBC mode encryption, each ciphertext block is dependent on all plaintext blocks processed up to that point. This adds an extra level of complexity to the encrypted data.
 
-We are going to use CBC for this example which requires both a Key and an Initialization Vector (IV). An initialization vector is a random number used in combination with a secret key as a means to encrypt data. This number is sometimes referred to as a nonce, or "number occuring once" as an encryption program uses it only once per session. The Key and IV need to be passed to the OpenSSL-ENC command in hex format.
+We are going to use CBC for this example which requires both a Key and an Initialization Vector (IV). An initialization vector is a random number used in combination with a secret key as a means to encrypt data. This number is sometimes referred to as a nonce, or "number occuring once" as an encryption program uses it only once per session.
+
+The Key and IV need to be passed to the OpenSSL-ENC command in hex format.
 
 The in AES-128, the key MUST have a length that is a multiple of 16, but the IV can be any length as it is really more like an inital offset value.
 
