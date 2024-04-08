@@ -52,7 +52,7 @@ verifier=
 
 ## STEP 4 : Send Request and extract Token
 
-=> Note the elements of the id_token by using jwt.io
+=> Note the elements of the ID token by using jwt.io
 
 ## STEP 5 : Construct Google Photos Request - Get All Albums
 
