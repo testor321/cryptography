@@ -1,6 +1,6 @@
 # explore Google drive API
 
-## ## STEP 1: From your Google Developer Console, create a client id and client secret
+## ## STEP 1: From your Google Developer Console, create a client ID and client secret
 
 ```less
 client_id=
@@ -102,7 +102,7 @@ After getting Response -
     - How is it different than the UserInfo response?
 ```
 
-## STEP 11 : Let Access Token expire and check that you cannot call the Drive API with expired token 
+## STEP 11 : Let Access Token expire and check that you cannot call the Drive API with expired token
 
 ```less
 After getting Response - 
