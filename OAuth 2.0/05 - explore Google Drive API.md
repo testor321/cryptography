@@ -1,6 +1,6 @@
 # explore Google drive API
 
-## ## STEP 1: From your Google Developer Console, create a client ID and client secret
+## STEP 1: From your Google Developer Console, create a client ID and client secret
 
 ```less
 client_id=
