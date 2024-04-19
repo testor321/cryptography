@@ -75,7 +75,7 @@ client_secret
 token
 ```
 
-## STEP 7 : Send request to get JSON Web Key Set URL (JWKS Url)
+## STEP 7 : Send request to get JSON Web Key Set URL (JWKS URL)
 
 ```less
 ENDPOINT   
