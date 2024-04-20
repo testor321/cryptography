@@ -1,4 +1,4 @@
-# Octa overview
+# Okta overview
 
 [Okta Developer Edition Service](https://developer.okta.com/signup/)
 
